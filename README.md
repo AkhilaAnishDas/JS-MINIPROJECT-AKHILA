@@ -12,25 +12,25 @@ A simple and interactive calculator built using HTML, CSS, and JavaScript that c
 <br> <br>
   
 🛠️ Technologies Used
-🌐 HTML – Structure
-🎨 CSS – Styling
-⚙️ JavaScript – Conversion logic
+- 🌐 HTML – Structure
+- 🎨 CSS – Styling
+- ⚙️ JavaScript – Conversion logic
 
 <br> <br>
 
 ▶️ How to Use
-Open the calculator webpage
-Enter a number in any input field
-Other number systems will update automatically
+- Open the calculator webpage
+- Enter a number in any input field
+- Other number systems will update automatically
 
 <br> <br>
 
 📂 Project Files
-calci.html
-calci.css
-calci.js
-Calci.png
-wallpaper.jpg
+1. calci.html
+2. calci.css
+3. calci.js
+4. Calci.png
+5. wallpaper.jpg
 
 <br> <br>
 
