@@ -1,0 +1,86 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+body {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: url("wallpaper.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+
+.calculator {
+    width: 460px;
+    padding: 60px;
+    border-radius: 20px;
+    background: #ffffff;
+    box-shadow: 0 15px 35px rgba(0, 0, 0, 0.08);
+}
+
+.calculator h1 {
+    text-align: center;
+    margin-bottom: 25px;
+    font-size: 1.3rem;
+    color: #333;
+}
+
+.input-group {
+    margin-bottom: 18px;
+    display: flex;
+    flex-direction: column;
+}
+
+.input-group label {
+    margin-bottom: 6px;
+    font-weight: 600;
+    font-size: 0.9rem;
+}
+
+#decimal {
+    background: #dceefb;
+    border: 2px solid #2399f9;
+}
+
+#binary {
+    background: #e8f5e9;
+    border: 2px solid #4caf50;
+}
+
+#octal {
+    background: #fff3e0;
+    border: 2px solid #ff9800;
+}
+
+#hexadecimal {
+    background: #f3e5f5;
+    border: 2px solid #9c27b0;
+}
+
+.input-group input {
+    padding: 12px;
+    border-radius: 12px;
+    font-size: 1rem;
+    outline: none;
+    transition: all 0.3s ease;
+}
+
+.input-group input:focus {
+    transform: scale(1.04);
+    box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+}
+
+.input-group input:hover {
+    opacity: 0.9;
+}
+
+#error-msg {
+    margin-bottom: 15px;
+    font-weight: 600;
+}
