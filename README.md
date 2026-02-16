@@ -1,29 +1,39 @@
 🔢 Number System Calculator
 A simple and interactive calculator built using HTML, CSS, and JavaScript that converts numbers between different number systems.
-<br>
+
+
+
 ✨ Features
 - Convert Decimal ↔ Binary ↔ Octal ↔ Hexadecimal
 -  Real-time conversion while typing
 -  Error message for invalid input
 - Simple and user-friendly interface
-<br>
+
+
+  
 🛠️ Technologies Used
 🌐 HTML – Structure
 🎨 CSS – Styling
 ⚙️ JavaScript – Conversion logic
-<br>
+
+
+
 ▶️ How to Use
 Open the calculator webpage
 Enter a number in any input field
 Other number systems will update automatically
-<br>
+
+
+
 📂 Project Files
 calci.html
 calci.css
 calci.js
 Calci.png
 wallpaper.jpg
-<br>
+
+
+
 README.md
 👩‍💻 Author: Akhila Anish Das
 Roll No: 150096725016
